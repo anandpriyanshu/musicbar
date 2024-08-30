@@ -19,7 +19,7 @@ export default function Home() {
         <MovingCards />
         <UpcomingWebinars />
         <Instructors />
-        <Footer />
+
       </main>
     </>
   );
